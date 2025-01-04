@@ -29,3 +29,12 @@ virtual functions
 Defining and Opening a File, closing a File, reading from a File, Writing into a File. Templates: Need
 of template, Function templates
 Exception Handling: Exception handling mechanism, Catch Blocks, Catch Throw an exception
+
+---
+# How to do the initial setup
+So for the windows workinng environment you need to install the following :
+1. Visual Studio Code
+2. C++ extension and Code Runner extension
+3. G++ /  MinGw
+
+Use youtube for help

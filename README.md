@@ -38,3 +38,7 @@ So for the windows workinng environment you need to install the following :
 3. G++ /  MinGw
 
 Use youtube for help
+
+
+### Or
+Perhaps you need a single shot method to run the c++ code then ill suggest using the DevC++ 

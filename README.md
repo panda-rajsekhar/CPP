@@ -33,12 +33,10 @@ Exception Handling: Exception handling mechanism, Catch Blocks, Catch Throw an e
 ---
 # How to do the initial setup
 So for the windows workinng environment you need to install the following :
-1. Visual Studio Code
+1. Visual Studio Code or VS Code Insiders 
 2. C++ extension and Code Runner extension
 3. G++ /  MinGw
 
-Use youtube for help
 
 
-### Or
-Perhaps you need a single shot method to run the c++ code then ill suggest using the DevC++ 
+
